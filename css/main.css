@@ -991,14 +991,13 @@ a.accordion-toggle  i{
   font-size: 40px;
   line-height: 60px;
   color: #fff;
-  background: #000;
+  background: #2dcc70;
   text-align: center;
   border-radius: 10px;
 }
 
 .contact-info h2{
   margin-top: 0;
-  color: #000;
 }
 
 .contact-info{
@@ -1982,7 +1981,6 @@ textarea#message{
 }
 
 .widget h3 {
-  color: #000;
   text-transform: uppercase;
   margin-bottom: 20px;
 }
@@ -2478,7 +2476,6 @@ shortcodes page css
   margin-bottom: 10px;
   text-transform: uppercase;
   font-size:22px;
-  color: #000;
 }
 
 #bottom ul {
